@@ -8,12 +8,14 @@
 ### App UI 
 <p float="left">
 <img src="https://github.com/ibsatportfolio/updated-urban-mart-app/assets/115410634/6853952c-7b29-425b-9bcf-28d4c8d96bf7"  width=300 height=700>&emsp;&emsp;&emsp;  
-<img src="https://github.com/ibsatportfolio/updated-urban-mart-app/assets/115410634/a3b2f8e4-73d1-43e6-849c-56a21d9fef7f"  width=300 height=700>&emsp;&emsp;
-<img src="https://github.com/ibsatportfolio/updated-urban-mart-app/assets/115410634/45c1c5aa-cf62-447a-be3a-35835242efe9"  width=300 height=700>  
+<img src="https://github.com/ibsatportfolio/updated-urban-mart-app/assets/115410634/a3b2f8e4-73d1-43e6-849c-56a21d9fef7f"  width=300 height=700> 
 </p>
 <p float="left">
-<img src="https://github.com/ibsatportfolio/updated-urban-mart-app/assets/115410634/7f7d098f-a797-4152-b2f8-87e3bf6a0147"  width=300 height=700>&emsp;&emsp;&emsp;
-<img src="https://github.com/ibsatportfolio/updated-urban-mart-app/assets/115410634/873e3650-717d-4811-9499-e6ad8475f0a3"  width=300 height=700>&emsp;&emsp;
+<img src="https://github.com/ibsatportfolio/updated-urban-mart-app/assets/115410634/45c1c5aa-cf62-447a-be3a-35835242efe9"  width=300 height=700>&emsp;&emsp;&emsp;  
+<img src="https://github.com/ibsatportfolio/updated-urban-mart-app/assets/115410634/7f7d098f-a797-4152-b2f8-87e3bf6a0147"  width=300 height=700> 
+</p>
+<p float="left">
+<img src="https://github.com/ibsatportfolio/updated-urban-mart-app/assets/115410634/873e3650-717d-4811-9499-e6ad8475f0a3"  width=300 height=700>&emsp;&emsp;&emsp;
 <img src="https://github.com/ibsatportfolio/updated-urban-mart-app/assets/115410634/b57203ee-538e-41ae-90a9-2274ce1524fc"  width=300 height=700>   
 </p>
 <p float="left">
